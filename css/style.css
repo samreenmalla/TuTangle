@@ -1,0 +1,169 @@
+.logo img{ 
+    margin-top: 22px;
+    float: left;
+}
+.searchbox input[type="text"] {
+    width: 276px;
+    margin-left: 8px;
+    background: #caeff7;
+    border: none;
+    outline: none;
+    font-size: 9px;
+    line-height: 20px;
+    padding-right: 10px;
+}
+.search-btn button{
+    background: #48838d;
+    border: none;
+    color: #f3f5f2;
+    font-size: 9px;
+}
+.search-list ul li{
+    font-size: 11px;
+    font-family: 'Istok Web', sans-serif;
+    font-weight: bold;
+    /* width: 138px; */
+}
+.search-list ul img{
+    float: right;
+    padding-right: 14px;
+}
+.recent-searches{
+    background-color: #2fc1da;
+    color: #fefefe;
+    font-size: 14px;
+    font-family: 'Istok Web', sans-serif;
+
+}
+.user-menu{
+    font-family: 'Muli', sans-serif;
+    font-size: 15px;
+}
+.user-menu ul li {
+    font-size: 11px; 
+    list-style-type: none;
+}
+
+.notification ul li{
+    font-family: 'Muli', sans-serif;
+    font-size: 11px;
+}
+.notification img {
+    margin-right: 8px;
+}
+.menu-left ul li {
+    font-family: 'Istok Web', sans-serif;
+    font-size: 13px;
+}
+.body{
+     background: url("../images/main-bg.png") repeat-y;
+}
+.body-title {
+    font-size: 28px;
+    font-family: 'Muli';
+}
+.tab-left{
+    font-size: 12px;
+    font-family: 'Istok Web', sans-serif;
+    text-align: center;
+}
+.tab-right{
+    text-align: center;
+    font-size: 12px;
+    font-family: 'Istok Web', sans-serif;
+}
+.tab-bottom-left li{
+    width: 114px;
+    line-height: 28px;
+    text-align: center;
+    font-size: 11px;
+    font-family: 'Muli';
+}
+.tab-bottom-right li{
+    width: 114px;
+    line-height: 28px;
+    text-align: center;
+    font-size: 11px;
+    font-family: 'Muli', 'Istok Web';
+}
+.tab-bg{
+    background-image: url("../images/tabbg.png");
+}
+.tab-bottom-left .l-right {
+    background: url("../images/tab-bg.png") no-repeat;    
+}
+.tab-bottom-left .l-left {
+    background: url("../images/tab-bg-active.png") no-repeat;
+}
+.tab-bottom-right .r-left {
+    background: url("../images/tab-bg.png") no-repeat;
+}
+.tab-bottom-right .r-right {
+    background: url("../images/tab-bg.png") no-repeat;    
+}
+
+hr{
+    border: 1px solid #2fc1da;
+}
+.details-heading{
+    font-weight: bold;
+    font-size: 13px;
+}
+.details-bottom{
+    font-size: 10px;
+}
+.from{
+    font-size: 10px;
+}
+.footer-left li {
+    color: white;
+    font-family: 'Muli';
+    font-size: 8px;
+    background: url("../images/footerdot.png") right 50% no-repeat;
+}
+.footer-right {
+    float: right;
+    line-height: 45px;
+    color: white;
+    font-family: 'Muli';
+    font-size: 8px;
+}
+/* for hovering */
+p:hover{
+    font-weight: bold;
+    font-size: 15px;
+}
+.user-menu li:hover{
+    font-weight: bold;
+    font-size: 12px;
+}
+.menu-left li:hover{
+    font-weight: bold;
+}
+.notification li img:hover{
+    width: 10px;
+}
+.notification li:hover{
+    font-weight: bold;
+}
+.recent-searches:hover{
+    font-weight: bold;
+    font-size: 14px;
+}
+.search-list li:hover{
+    background-color: white;
+}
+.body-title:hover{
+    font-weight: bold;
+}
+.details-heading:hover{
+    font-size: 14px;
+}
+.details span:hover{
+    font-weight: bold;
+    font-size: 12px;
+}
+.tab-left:hover, 
+.tab-right:hover{
+    font-weight: bold;
+}

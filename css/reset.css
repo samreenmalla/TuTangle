@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.clear::after{
+    content: "";
+    clear: both;
+    display: table; 
+}

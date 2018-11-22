@@ -1,0 +1,232 @@
+/* Nav Bar Top Starts here*/
+.nav-bar{
+    min-width: 938px;
+    background-color: #7dd9e8;
+    padding-left: 32px;
+    padding-right: 32px;
+    height: 85px;
+} 
+.nav-bar-wrapper {
+    width: 938px;
+    margin: 0 auto;
+}
+.searchbox-bg {
+    float: left;
+    margin-top: 40px;
+    margin-left: 24px;
+    position: relative;
+}
+.searchbox {
+    position: absolute;
+    top: 1;
+    left: 2;
+}
+.search-button-bg {
+    float: left;
+    position: relative;
+    margin-top: 40px;
+    margin-left: 8px;
+}
+.search-btn button {
+    float: left;
+    line-height: 20px;
+    position: absolute;
+    top: 0;
+    left: 7;
+}
+.user-menu {
+    float: right;
+    margin-right: 31px;
+    margin-top: 28px;
+}
+.user-menu p {
+    padding-left: 95px;
+}
+.user-menu ul{
+    float: right;
+}
+.user-menu ul li {
+    float: left;
+}
+.user-menu img{
+    padding-left: 6px;
+    padding-right: 6px;
+}
+/* Nav Bar Bottom Starts here*/
+
+.nav-menu {
+    /* clear: both; */
+    height: 40px;
+    background: #f5f5f5;
+}
+
+.menu-left {
+    float: left;
+    line-height: 40px;
+    padding-left: 41px;
+}
+.menu-left ul li {
+    list-style-type: none;
+    float: left;
+    padding-right: 31px;
+}
+
+.notification {
+    float: right;
+    line-height: 40px;
+}
+
+.notification ul li {
+    float: left;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+/* main body starts here */
+.body {
+    display: table;
+    margin: 0 auto;
+    width: 938px;
+    margin-top: 30px;
+}
+
+/* Recent Searches */
+.col-left{
+    float: left;
+    width: 194px;
+    display: table-cell;
+    /* margin-left: 33px; */
+}
+.recent-searches{
+    /* height: 42px; */
+    line-height: 42px;
+    padding-left: 12px;
+}
+
+.search-list ul li {
+    list-style-type: none;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 12px;
+}
+
+/* for entries */
+.col-center{
+    width: 518px;
+    float: left;
+    margin: 0 24px;
+}
+.tab-bg {
+    position: relative;
+}
+.tab-top {
+    padding-top: 14px;
+}
+.tab-left {
+    float: left;
+    width: 258px;
+    /* line-height: 3.8rem; */
+}
+
+.tab-right {
+    float: right;
+    width: 258px;
+}
+.tab-bottom {
+    float: left;
+}
+.tab-bottom-left {
+    float: left;
+}
+.tab-bottom-left ul {
+    list-style-type: none;
+}
+
+.tab-bottom-left li {
+    float: left;
+    margin-left: 10px;
+}
+.tab-bottom-right {
+    float: right;
+    margin-left: 22px;
+}
+.tab-bottom-right ul {
+    list-style-type: none;
+}
+.tab-bottom-right li {
+    float: right;
+    margin-right: 10px;
+}
+.posts ul {
+    list-style-type: none;
+    font-family: 'Muli';
+}
+.posts li {
+    list-style-type: none;
+    margin-top: 15px;
+    font-family: 'Muli';
+}
+.post {
+    border-bottom: 1px solid #d8d8d8;
+    padding-bottom: 15px;
+    font-family: 'Muli';
+}
+
+.profile-img {
+    float: left;
+}
+
+.details {
+    float: right;
+    width: 382px;
+    margin-right: 58px;
+    font-family: 'Muli';
+}
+
+/* Video Tutorials */
+.col-right{
+    float: right;
+    width: 176px;
+    display: table-cell;
+}
+/* footer starts here */
+.footer {
+    height: 45px;
+    background-color: #727272;
+    padding-left: 32px;
+    margin-top: 64px;
+}
+
+.footer-left {
+    float: left; 
+}
+
+.footer-left ul {
+    list-style-type: none;
+}
+.footer-left li {
+    float: left; 
+    list-style-type: none;
+    line-height: 45px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.footer-left li:last-child{
+    float: left; 
+    list-style-type: none;
+    line-height: 45px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background: none;
+}
+
+.footer-wrapper {
+    width: 938px;
+    margin: 0 auto;
+}
+
+
+
+
+
